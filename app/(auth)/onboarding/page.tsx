@@ -1,7 +1,7 @@
-async function Page() {
-    return (
-        <main>
-            <h1 className="head-text">Onboarding</h1>
-        </main>
-    )
+
+ function Page() {
+  return (
+    <div>page</div>
+  )
 }
+export default Page;
